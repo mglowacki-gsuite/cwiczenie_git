@@ -1,1 +1,5 @@
+ HEAD
 NowaZmiana2 
+rozwiazny konflikt
+InnaZmiana 
+5fb1e40 (Inna zmiana w katalogu 1)
